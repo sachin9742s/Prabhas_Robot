@@ -5,7 +5,7 @@ Very Sempil Bot Auto Filter bot
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/a95a80de40cbfdb9da8e4.jpg)](https://heroku.com/deploy?template=https://github.com/sachin9742s/anna-ben-repo)
+[![Deploy](https://telegra.ph/file/a95a80de40cbfdb9da8e4.jpg)](https://heroku.com/deploy?template=https://github.com/sachin9742s/Prabhas_Robot)
 
 - [x] Auto Filter
 - [x] Manuel Filter
@@ -49,7 +49,7 @@ Very Sempil Bot Auto Filter bot
 
 
 ###ANNA BEN REPO
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sachin9742s/anna-ben-repo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sachin9742s/Prabhas_Robot)
 ### Hard Way
 
 ```bash
